@@ -1,5 +1,5 @@
 #intialize keys
-api_key = "INSERT_YOUR_APP_KEY_HERE"
+api_key = "
 api_secret = "INSERT_YOUR_SECRET_KEY_HERE"
 api_session = 'INSERT_YOUR_API_SESSION_HERE'
 
